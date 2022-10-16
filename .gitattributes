@@ -1,2 +1,2 @@
 README.md -linguist-documentation
-README.md linguist-language=Markdown
+*.md linguist-detectable
